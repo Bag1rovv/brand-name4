@@ -1,0 +1,10 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .btn{
+        margin-left: 0 !important;
+        margin-left: 0;
+    }
+    .card{
+        /* text-align: center !important; */
+        margin-left: 0px !important;
+    }
+}
